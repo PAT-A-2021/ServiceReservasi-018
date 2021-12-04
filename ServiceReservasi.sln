@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceReservasi", "ServiceReservasi\ServiceReservasi.csproj", "{2F38AF14-2F7F-470A-A389-D5CF41AC6D2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F38AF14-2F7F-470A-A389-D5CF41AC6D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F38AF14-2F7F-470A-A389-D5CF41AC6D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F38AF14-2F7F-470A-A389-D5CF41AC6D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F38AF14-2F7F-470A-A389-D5CF41AC6D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E55C616-79B3-4D60-BDBE-610590A5569A}
+	EndGlobalSection
+EndGlobal
